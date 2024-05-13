@@ -13,6 +13,7 @@ The csv file is to be formatted like so:
 englishWord,article germanWord
 
 For example, a csv file would be:
+
 invention,die Erfindung
 
 discovery,die Entdeckung
